@@ -1,0 +1,932 @@
+{
+  "zones": [
+    {
+      "id": 1001,
+      "name": "1 (2048 game)",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/1/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/one.jpg"
+    },
+    {
+      "id": 1002,
+      "name": "100 Player Pong",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/100-player-pong/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/100pong.jpg"
+    },
+    {
+      "id": 1003,
+      "name": "10 Minutes Till Dawn",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/10-minutes-till-dawn/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/10m.jpg"
+    },
+    {
+      "id": 1004,
+      "name": "1v1.lol",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/1v1/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/1v1.jpg"
+    },
+    {
+      "id": 1005,
+      "name": "1v1.space",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/1v1space/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/1v1space.jpg"
+    },
+    {
+      "id": 1006,
+      "name": "2048",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/2048/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/2048.jpg"
+    },
+    {
+      "id": 1007,
+      "name": "2048 Multitask",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/2048-multitask/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/multit.jpg"
+    },
+    {
+      "id": 1008,
+      "name": "9007199254740992",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/9007199254740992/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/900.jpg"
+    },
+    {
+      "id": 1009,
+      "name": "Achievement Unlocked",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/achievementunlocked/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ache.jpg"
+    },
+    {
+      "id": 1010,
+      "name": "Backrooms",
+      "developer": "oddgames",
+      "category": "Horror",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/backrooms/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/backrooms.jpg"
+    },
+    {
+      "id": 1011,
+      "name": "Bad Ice Cream",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bad-ice-cream/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bad-ice-cream.jpg"
+    },
+    {
+      "id": 1012,
+      "name": "Bad Ice Cream 2",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bad-ice-cream-2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bad-ice-cream-2.jpg"
+    },
+    {
+      "id": 1013,
+      "name": "Bad Ice Cream 3",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bad-ice-cream-3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bad-ice-cream-3.jpg"
+    },
+    {
+      "id": 1014,
+      "name": "Ball Hop",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ball-hop/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ballhop.jpg"
+    },
+    {
+      "id": 1015,
+      "name": "Basketball Stars",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/basketball-stars/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/basketball.jpg"
+    },
+    {
+      "id": 1016,
+      "name": "Big Tower Tiny Square",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/big-tower-tiny-square/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/btts.jpg"
+    },
+    {
+      "id": 1017,
+      "name": "Biters.io",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/biters-io/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/biters.jpg"
+    },
+    {
+      "id": 1018,
+      "name": "Bitlife",
+      "developer": "oddgames",
+      "category": "Simulation",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bitlife/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bitlife.jpg"
+    },
+    {
+      "id": 1019,
+      "name": "Blocky Tower",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/blocky-tower/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/blocky.jpg"
+    },
+    {
+      "id": 1020,
+      "name": "Bloons TD",
+      "developer": "oddgames",
+      "category": "Strategy",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bloonstd/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bloonstd.jpg"
+    },
+    {
+      "id": 1021,
+      "name": "Bloons TD 2",
+      "developer": "oddgames",
+      "category": "Strategy",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bloonstd2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bloonstd2.jpg"
+    },
+    {
+      "id": 1022,
+      "name": "Bloons TD 4",
+      "developer": "oddgames",
+      "category": "Strategy",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bloonstd4/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/bloonstd4.jpg"
+    },
+    {
+      "id": 1023,
+      "name": "Bouncy Basketball",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/bouncybasketball/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/BAS.jpg"
+    },
+    {
+      "id": 1024,
+      "name": "Boxing Physics",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/boxing-physics/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/box.jpg"
+    },
+    {
+      "id": 1025,
+      "name": "Breaklock",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/breaklock/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/breaklock.jpg"
+    },
+    {
+      "id": 1026,
+      "name": "Breakout",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/breakout/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/breakout.jpg"
+    },
+    {
+      "id": 1027,
+      "name": "Chrome Dino",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/chrome-dino/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/chrom.jpg"
+    },
+    {
+      "id": 1028,
+      "name": "Circlo",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/circlo/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/circlo.jpg"
+    },
+    {
+      "id": 1029,
+      "name": "Cluster Rush",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/cluster-rush/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/cluster.jpg"
+    },
+    {
+      "id": 1030,
+      "name": "Connect 3",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/connect3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/con3.jpg"
+    },
+    {
+      "id": 1031,
+      "name": "Cookie Clicker",
+      "developer": "oddgames",
+      "category": "Idle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/cookie/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/cookie.jpg"
+    },
+    {
+      "id": 1032,
+      "name": "Core Ball",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/core-ball/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/coreball.jpg"
+    },
+    {
+      "id": 1033,
+      "name": "Crossy Road",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/crossyroad/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/crossyroad.jpg"
+    },
+    {
+      "id": 1034,
+      "name": "CSGO Clicker",
+      "developer": "oddgames",
+      "category": "Idle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/csgo-clicker/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/CSGO.jpg"
+    },
+    {
+      "id": 1035,
+      "name": "Cupcakes",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/cupcakes/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/cupcakes.jpg"
+    },
+    {
+      "id": 1036,
+      "name": "Cut The Rope",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/cuttherope/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ctr.jpg"
+    },
+    {
+      "id": 1037,
+      "name": "Cyber City Driver",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/cyber-city-driver/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/cyber.jpg"
+    },
+    {
+      "id": 1038,
+      "name": "Disc US",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/discus/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/elec.jpg"
+    },
+    {
+      "id": 1039,
+      "name": "Doge Miner",
+      "developer": "oddgames",
+      "category": "Idle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/dogeminer/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/Dogecoin.jpg"
+    },
+    {
+      "id": 1040,
+      "name": "Doodle Jump",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/doodlejump/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/doodle.jpg"
+    },
+    {
+      "id": 1041,
+      "name": "Drift City",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/drift-city/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/driftc.jpg"
+    },
+    {
+      "id": 1042,
+      "name": "DriftKing.io",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/driftking/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/driftking.jpg"
+    },
+    {
+      "id": 1043,
+      "name": "Duck Life 1",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ducklife1/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ducklife.jpg"
+    },
+    {
+      "id": 1044,
+      "name": "Duck Life 2",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ducklife2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ducklife2.jpg"
+    },
+    {
+      "id": 1045,
+      "name": "Duck Life 3",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ducklife3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ducklife3.jpg"
+    },
+    {
+      "id": 1046,
+      "name": "Duck Life 4",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ducklife4/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ducklife4.jpg"
+    },
+    {
+      "id": 1047,
+      "name": "Dune",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/dune/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/dune.jpg"
+    },
+    {
+      "id": 1048,
+      "name": "Dunkers Fight",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/dunkers-fight/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/dunk.jpg"
+    },
+    {
+      "id": 1049,
+      "name": "Eat.io",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/eatio/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/eatio.jpg"
+    },
+    {
+      "id": 1050,
+      "name": "Fall Boys",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fallboys/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fall-boys.jpg"
+    },
+    {
+      "id": 1051,
+      "name": "Ferge.io",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ferge/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/ferge.jpg"
+    },
+    {
+      "id": 1052,
+      "name": "Flappy Bird",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/flappy/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/flappy.jpg"
+    },
+    {
+      "id": 1053,
+      "name": "FlipHero.io",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fliphero/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fliphero.jpg"
+    },
+    {
+      "id": 1054,
+      "name": "FNAF 1",
+      "developer": "oddgames",
+      "category": "Horror",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fnaf/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fnaf.jpg"
+    },
+    {
+      "id": 1055,
+      "name": "FNAF 2",
+      "developer": "oddgames",
+      "category": "Horror",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fnaf2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fnaf.jpg"
+    },
+    {
+      "id": 1056,
+      "name": "FNAF 3",
+      "developer": "oddgames",
+      "category": "Horror",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fnaf3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fnaf.jpg"
+    },
+    {
+      "id": 1057,
+      "name": "FNAF 4",
+      "developer": "oddgames",
+      "category": "Horror",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fnaf4/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fnaf.jpg"
+    },
+    {
+      "id": 1058,
+      "name": "Fruit Ninja",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/fruitninja/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/fruitninja.jpg"
+    },
+    {
+      "id": 1059,
+      "name": "Funny Shooter",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/funnyshooter/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/funnyshooter.jpg"
+    },
+    {
+      "id": 1060,
+      "name": "Geometry Dash",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/geometrydash/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/geodash.jpg"
+    },
+    {
+      "id": 1061,
+      "name": "Good Night",
+      "developer": "oddgames",
+      "category": "Horror",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/goodnight/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/gn.jpg"
+    },
+    {
+      "id": 1062,
+      "name": "Hextris",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/hextris/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/hextrt.jpg"
+    },
+    {
+      "id": 1063,
+      "name": "Idle Breakout",
+      "developer": "oddgames",
+      "category": "Idle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/idle-breakout/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/idlebreakout.jpg"
+    },
+    {
+      "id": 1064,
+      "name": "Idle Shark",
+      "developer": "oddgames",
+      "category": "Idle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/idle-shark/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/sharkgame.jpg"
+    },
+    {
+      "id": 1065,
+      "name": "Learn to Fly",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/learntofly/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/learntofly.jpg"
+    },
+    {
+      "id": 1066,
+      "name": "Mario",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/mario/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/mario.jpg"
+    },
+    {
+      "id": 1067,
+      "name": "Minecraft",
+      "developer": "oddgames",
+      "category": "Sandbox",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/minecraft/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/minecraft.jpg"
+    },
+    {
+      "id": 1068,
+      "name": "Minecraft JS",
+      "developer": "oddgames",
+      "category": "Sandbox",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/minecraft-js/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/minecraft.jpg"
+    },
+    {
+      "id": 1069,
+      "name": "Moto X3M",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/motox3m/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/Racer.jpg"
+    },
+    {
+      "id": 1070,
+      "name": "Moto X3M 2",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/motox3m2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/Racer.jpg"
+    },
+    {
+      "id": 1071,
+      "name": "Moto X3M Pool Party",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/motox3m-pool/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/Racer.jpg"
+    },
+    {
+      "id": 1072,
+      "name": "Moto X3M Spooky Land",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/motox3m-spooky/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/Racer.jpg"
+    },
+    {
+      "id": 1073,
+      "name": "Moto X3M Winter",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/motox3m-winter/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/Racer.jpg"
+    },
+    {
+      "id": 1074,
+      "name": "Ovo",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ovo/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/one.jpg"
+    },
+    {
+      "id": 1075,
+      "name": "Ovo 2",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ovo2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/one.jpg"
+    },
+    {
+      "id": 1076,
+      "name": "Pacman",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/pacman/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/pacman.jpg"
+    },
+    {
+      "id": 1077,
+      "name": "Paper.io 2",
+      "developer": "oddgames",
+      "category": "Multiplayer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/paperio2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/paperio.jpg"
+    },
+    {
+      "id": 1078,
+      "name": "Ping Pong",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/ping-pong/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/pong.jpg"
+    },
+    {
+      "id": 1079,
+      "name": "Pixel Combat 2",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/pixel-combat2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/parclick.jpg"
+    },
+    {
+      "id": 1080,
+      "name": "Plants vs Zombies",
+      "developer": "oddgames",
+      "category": "Strategy",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/pvz/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/pogy.jpg"
+    },
+    {
+      "id": 1081,
+      "name": "Polytrack",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/polytrack/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/prox.jpg"
+    },
+    {
+      "id": 1082,
+      "name": "Retro Bowl",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/retro-bowl/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/retrobowl.jpg"
+    },
+    {
+      "id": 1083,
+      "name": "Riddle School",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/riddleschool/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/resr.jpg"
+    },
+    {
+      "id": 1084,
+      "name": "Riddle School 2",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/riddleschool2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/resr.jpg"
+    },
+    {
+      "id": 1085,
+      "name": "Riddle School 3",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/riddleschool3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/resr.jpg"
+    },
+    {
+      "id": 1086,
+      "name": "Riddle School 4",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/riddleschool4/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/resr.jpg"
+    },
+    {
+      "id": 1087,
+      "name": "Riddle School 5",
+      "developer": "oddgames",
+      "category": "Adventure",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/riddleschool5/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/resr.jpg"
+    },
+    {
+      "id": 1088,
+      "name": "Rooftop Snipers",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/rooftop-snipers/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/rooftopsn.jpg"
+    },
+    {
+      "id": 1089,
+      "name": "Run 3",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/run3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/run3.jpg"
+    },
+    {
+      "id": 1090,
+      "name": "Slope",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/slope/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/slope.jpg"
+    },
+    {
+      "id": 1091,
+      "name": "Slope 2",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/slope-2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/slope.jpg"
+    },
+    {
+      "id": 1092,
+      "name": "Smash Karts",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/smashkarts/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/raid.jpg"
+    },
+    {
+      "id": 1093,
+      "name": "Snake",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/snake/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/sans.jpg"
+    },
+    {
+      "id": 1094,
+      "name": "Snow Rider 3D",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/snowrider3d/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/slope.jpg"
+    },
+    {
+      "id": 1095,
+      "name": "Soccer Random",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/soccer-random/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/sus.jpg"
+    },
+    {
+      "id": 1096,
+      "name": "Space Invaders",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/spaceinvaders/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/spaceinv.jpg"
+    },
+    {
+      "id": 1097,
+      "name": "Stack",
+      "developer": "oddgames",
+      "category": "Arcade",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/stack/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/stackball.jpg"
+    },
+    {
+      "id": 1098,
+      "name": "Stickman Hook",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/stickman-hook/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/pickyback.jpg"
+    },
+    {
+      "id": 1099,
+      "name": "Subway Surfers",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/subway-surfers/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/subway.jpg"
+    },
+    {
+      "id": 1100,
+      "name": "Super Mario 64",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/supermario64/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/mario.jpg"
+    },
+    {
+      "id": 1101,
+      "name": "Superhot",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/superhot/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/superhot.jpg"
+    },
+    {
+      "id": 1102,
+      "name": "Swerve",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/swerve/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/xtr.jpg"
+    },
+    {
+      "id": 1103,
+      "name": "Tanuki Sunset",
+      "developer": "oddgames",
+      "category": "Racing",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/tanuki-sunset/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/subsan.jpg"
+    },
+    {
+      "id": 1104,
+      "name": "Temple Run 2",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/templerun2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/templerun.jpg"
+    },
+    {
+      "id": 1105,
+      "name": "Tetris",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/tetris/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/tetris.jpg"
+    },
+    {
+      "id": 1106,
+      "name": "There Is No Game",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/there-is-no-game/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/thesquare.jpg"
+    },
+    {
+      "id": 1107,
+      "name": "Tiny Fishing",
+      "developer": "oddgames",
+      "category": "Idle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/tiny-fishing/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/timeshooters.jpg"
+    },
+    {
+      "id": 1108,
+      "name": "Tunnel Rush",
+      "developer": "oddgames",
+      "category": "Action",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/tunnel-rush/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/tunnelrush.jpg"
+    },
+    {
+      "id": 1109,
+      "name": "Vex 3",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/vex3/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/vex3.jpg"
+    },
+    {
+      "id": 1110,
+      "name": "Vex 4",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/vex4/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/vex4.jpg"
+    },
+    {
+      "id": 1111,
+      "name": "Vex 5",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/vex5/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/vex5.jpg"
+    },
+    {
+      "id": 1112,
+      "name": "Vex 6",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/vex6/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/vex6.jpg"
+    },
+    {
+      "id": 1113,
+      "name": "Vex 7",
+      "developer": "oddgames",
+      "category": "Platformer",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/vex7/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/vex7.jpg"
+    },
+    {
+      "id": 1114,
+      "name": "Volley Random",
+      "developer": "oddgames",
+      "category": "Sports",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/volley-random/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/toe.jpg"
+    },
+    {
+      "id": 1115,
+      "name": "Worlds Hardest Game",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/worlds-hardest-game/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/whg.jpg"
+    },
+    {
+      "id": 1116,
+      "name": "Worlds Hardest Game 2",
+      "developer": "oddgames",
+      "category": "Puzzle",
+      "url": "https://nginx11.github.io/oddgamesFORKED/play/worlds-hardest-game2/",
+      "image": "https://raw.githubusercontent.com/JoeTheCrason/oddgames/main/icons/whg.jpg"
+    }
+  ]
+}
